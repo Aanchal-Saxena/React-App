@@ -2,12 +2,11 @@
 
 ## Overview
 
-This project is a To-Do App with added functionality for selecting a country and state. The application allows users to:
+This project is a React App with functionalities like creating todo, selecting posts and select states in various countries. Basically application allows users to:
 
 - Manage their To-Dos: Add, update, delete, and toggle the completion status of tasks. The tasks are stored locally and persist on page reload using `localStorage`.
 - Select a Country and State: Users can select a country from a dropdown, and based on the selected country, a list of available states will be shown. If the selected country doesn't have states, an appropriate message is displayed.
 - Post Details: Users can select a post from a dropdown to view its details.
-
 
 ---
 
