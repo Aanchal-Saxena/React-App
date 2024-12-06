@@ -1,0 +1,15 @@
+@import url('variables.css');
+
+/* ======== common styles ========= */
+.w-full{
+    width: 100%;
+  }
+  
+  .text-color-dark {
+    color: var(--primary-theme-color) !important;
+  }
+
+  .theme-color{
+    background-color: #222629;
+  }
+  
